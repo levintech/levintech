@@ -14,4 +14,4 @@
 
 <br/>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=engineer325&show_icons=true&theme=vue)
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=thunderstroke325&show_icons=true&theme=vue)
