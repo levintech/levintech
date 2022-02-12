@@ -3,7 +3,7 @@
   <br/>
 
   Thanks for visiting my Github profile. As a software developer, I'd like to help you out with your business and success. I have good experience with Web Development, Blockchain,
-  and AI. I am always ready to discuss your business and love to work with Dev teams.
+  and AI. I am always ready to discuss your business and love to work with Dev Teams.
 <br/>
 
 ### Contact with me:
