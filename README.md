@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**thunderstroke325/thunderstroke325** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <br/>
 
-Here are some ideas to get you started:
+  Thanks for visiting my Github profile. As a software developer, I'd like to help you out with your business and success. I have good experience with Web Development, Blockchain,
+  and AI. I am always ready to discuss your business and love to work with Dev teams.
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact with me:
+
+- 💬 Telegram : [@thunderstroke325](https://t.me/thunderstroke325)
+- 💬 Skype : [Levin](https://join.skype.com/invite/yfZXy52mRGG7)
+- 📝 Email : thunderstroke.tech@gmail.com
+
+<br/>
+
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=engineer325&show_icons=true&theme=vue)
