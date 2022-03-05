@@ -1,6 +1,6 @@
 ### Hi, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;Over+5+years+of+Full+Stack+Development+experience;Over+3+years+of+Blockchain+developer;Machine+learning+enthusiast+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;Over+5+years+of+Full+Stack+&+Blockchain+Development+experience;Data+Science+Machine+learning+enthusiast+)](https://git.io/typing-svg)
 
 <br/>
 
@@ -37,9 +37,9 @@
 
 <br/>
 
+ GitHub Stats | Languages
 --- | --- 
 ![Levin's github stats](https://github-readme-stats.vercel.app/api?username=thunderstroke325&show_icons=true&theme=vue&include_all_commits=true) | ![Levin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderstroke325&theme=vue&layout=compact)
 
 <!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
 ![Levin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thunderstroke325&hide_border=true&theme=github-light)
