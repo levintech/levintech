@@ -45,7 +45,7 @@
 
 <p align=center>
   <div align=center>
-    ![trophy](https://github-profile-trophy.vercel.app/?username=thunderstroke325&row=1&margin-h=15&no-bg=true)
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thunderstroke325&row=1&margin-h=15&no-bg=true" alt="thunderstroke325" /></a>
   </div>
   <br>
 </p>
