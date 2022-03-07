@@ -43,4 +43,4 @@
 <!--   GitHub stats graph -->
 ![Levin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thunderstroke325&hide_border=true&theme=github-light)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=thunderstroke325?row=1?no-bg=true?no-frame=true)
+![trophy](https://github-profile-trophy.vercel.app/?username=thunderstroke325?row=1)
