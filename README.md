@@ -1,12 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+Welcome+to+My+Profile!;Over+5+years+of+Full+Stack+and+Blockchain+experience;Data+Science+Machine+learning+enthusiast+)](https://git.io/typing-svg)
 
-<p align="right">
-  <img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=thunderstroke&style=flat-square&color=5fc397"/></a>
-  <a href="https://github.com/thunderstroke325">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/thunderstroke325?color=5fc397&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
-  </a>
-</p>
-
 <br/>
 
   Thanks for visiting my Github profile. As a software developer, I'd like to help you out with your business and success. 
