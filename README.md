@@ -39,9 +39,6 @@
 --- | --- 
 ![Levin's github stats](https://github-readme-stats.vercel.app/api?username=thunderstroke325&show_icons=true&theme=vue&include_all_commits=true) | ![Levin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderstroke325&theme=vue&layout=compact)
 
-<!--   GitHub stats graph -->
-![Levin's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=thunderstroke325&hide_border=true&theme=github-light)
-
 <p align=center>
   <div align=center>
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thunderstroke325&row=1&margin-h=15&no-bg=true" alt="thunderstroke325" /></a>
