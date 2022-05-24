@@ -25,16 +25,3 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
-<br/>
-
- GitHub Stats | Languages
---- | --- 
-![Levin's github stats](https://github-readme-stats.vercel.app/api?username=thunderstroke325&show_icons=true&theme=vue&include_all_commits=true) | ![Levin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thunderstroke325&theme=vue&layout=compact)
-
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thunderstroke325&row=1&margin-h=15&no-bg=true" alt="thunderstroke325" /></a>
-  </div>
-  <br>
-</p>
