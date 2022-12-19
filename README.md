@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=800&lines=Hi+there+👋,+Welcome+to+My+Profile!;Full+Stack+and+Blockchain+developer;Data+Science+and+Machine+learning+enthusiast+)](https://git.io/typing-svg)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thunderstroke325&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=levintech&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 <br/>
 
   Thanks for visiting my Github profile. As a software developer, I'd like to help you out with your business and success. 
